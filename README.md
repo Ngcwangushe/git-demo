@@ -7,3 +7,5 @@ Initializr is here to kick-start the development of your new projects. It genera
 
 International guides
 Initializr functioning is pretty intuitive but it can help to read guides about it in your own language. Here are some which will help you using Initializr and understanding HTML5 Boilerplate, HTML5shiv or Modernizr, in French, Italian, Russian, Dutch, Portuguese, Polish, and Japanese.
+
+More changes
